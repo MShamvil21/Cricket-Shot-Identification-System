@@ -1,1 +1,2 @@
 # Cricket-Shot-Identification-System
+The Cricket Shot Identification System is built using an ML algorithm which helps in predicting the cricket shot that is being played. The dataset is created by getting the values of the accelerometer from the IMU sensor. Through this session, you will learn how to create your own dataset for different cricket shots using an IMU sensor and train an ML model to predict the shot, and deploy it on the microcontroller to test the model.
